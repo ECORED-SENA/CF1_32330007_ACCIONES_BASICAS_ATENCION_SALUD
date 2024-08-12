@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Valoración y seguridad de la escena  ',
     descripcionCurso:
       'El componente formativo sobre primeros auxilios detalla la evaluación de la escena, las características y acciones del primer auxiliador, y la cinemática del trauma. Incluye instrucciones para identificar, prevenir, alertar, examinar y vigilar a los pacientes, además de listar los contenidos esenciales de botiquines para vehículos, botiquines básicos y empresariales, y un glosario relevante. ',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.g'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
