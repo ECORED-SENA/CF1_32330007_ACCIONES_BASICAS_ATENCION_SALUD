@@ -138,7 +138,7 @@
                 .tarjeta.p-1(style="background-color: #eefad1").mb-0
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Directorio de ambulancias y servicios De salud o teléfonos de emergencias locales
+                    p.mb-0 Directorio de ambulancias y servicios de salud o teléfonos de emergencias locales
                 .tarjeta.p-1(style="background-color: #eefad1").mb-1
                   li.d-flex.mb-0
                     i.fas.fa-circle
