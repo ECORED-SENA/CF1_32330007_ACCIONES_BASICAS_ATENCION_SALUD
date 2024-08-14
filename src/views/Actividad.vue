@@ -193,7 +193,7 @@ export default {
           id: 7,
           texto:
             '¿Qué implica la acción de vigilar en el contexto de primeros auxilios?',
-          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103016.png'),
+          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103018.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -225,7 +225,7 @@ export default {
         {
           id: 8,
           texto: '¿Qué características debe tener el primer auxiliador?',
-          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103018.png'),
+          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103029.png'),
           opciones: [
             {
               id: 'a',
@@ -252,7 +252,7 @@ export default {
           id: 9,
           texto:
             '¿Cuál es una de las acciones iniciales del primer auxiliador?',
-          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103029.png'),
+          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103014.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Administrar medicamentos.', esCorrecta: false },
@@ -280,7 +280,7 @@ export default {
           id: 10,
           texto:
             '¿Qué debe hacer el primer auxiliador al observar la evolución del paciente?',
-          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103014.png'),
+          imagen: require('@/assets/componentes/pregunta-img/Grupo 1103016.png'),
           opciones: [
             {
               id: 'a',
