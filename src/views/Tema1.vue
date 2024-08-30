@@ -32,7 +32,6 @@
           .d-flex.m-auto: img(src='@/assets/curso/temas/5.svg', alt='')
       .col-lg-5
         .p-4.h-100(style="background-color: #EEFAD1")
-          h4 ¿Quién puede ser primer auxiliador?
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-circle
@@ -205,7 +204,7 @@
               .d-flex.justify-content-center.mb-3
                 .d-inline-block.m-auto.p-3(style="background-color: #FFB27E ")
                   h5.mb-0.text-center  Naturaleza del incidente
-              p Tipo de situación existente, materiales peligrosos y derrame de los mismos, colapso de estructura, incendio estructural, incendio forestal, caída de alturas, accidente de tránsito, caída de objetos, inundaciones y deslizamiento
+              p Tipo de situación existente, materiales peligrosos y derrame de los mismos, colapso de estructura, incendio estructural, incendio forestal, caída de alturas, accidente de tránsito, caída de objetos, inundaciones y deslizamiento.
             .tarjeta.bg-white.p-4
               .row.justify-content-center.mb-3
                 .col-4

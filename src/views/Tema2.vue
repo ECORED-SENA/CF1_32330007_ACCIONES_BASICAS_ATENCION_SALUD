@@ -8,7 +8,7 @@
       h1 Cinemática del trauma 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
-        p.mb-0 La cinemática del trauma es entender y analizar la escena de un accidente para determinar las posibles lesiones de los pacientes y darles un tratamiento más rápido y efectivo. Los datos obtenidos en la escena tanto del entorno como del paciente deben registrarse y transmitirse al personal de salud encargado del evento para orientar sobre las posibles lesiones que se pueden presentar. Se deben buscar objetos libres dentro del vehículo, ya que pudieron lesionar directamente a los ocupantes al comportarse como verdaderos proyectiles.
+        p.mb-0 La cinemática del trauma es entender y analizar la escena de un accidente para determinar las posibles lesiones de los pacientes y darles un tratamiento más rápido y efectivo. Los datos obtenidos en la escena, tanto del entorno como del paciente, deben registrarse y transmitirse al personal de salud encargado del evento para orientar sobre las posibles lesiones que se pueden presentar. Se deben buscar objetos libres dentro del vehículo, ya que pudieron lesionar directamente a los ocupantes al comportarse como verdaderos proyectiles.
       .col-lg-4.col-7(data-aos="fade-left"): img(src='@/assets/curso/temas/29.png', alt='')
     .titulo-tres: h3 Vehículo - objeto 
     p.mb-5(data-aos='fade-right') Las lesiones dependerán del lugar ocupado por cada persona dentro del vehículo (conductor, copiloto, parte trasera), del uso o no del cinturón de seguridad o sistemas de retención infantil, de la activación del airbag y de la fuerza del impacto. 

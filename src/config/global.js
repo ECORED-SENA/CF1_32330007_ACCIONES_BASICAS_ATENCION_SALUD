@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'El componente formativo sobre primeros auxilios detalla la evaluación de la escena, las características y acciones del primer auxiliador, y la cinemática del trauma. Incluye instrucciones para identificar, prevenir, alertar, examinar y vigilar a los pacientes, además de listar los contenidos esenciales de botiquines para vehículos, botiquines básicos y empresariales, y un glosario relevante. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal2.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -270,12 +270,7 @@ export default {
         },
         {
           nombre: 'Edgar Mauricio Cortes Garcia',
-          cargo: 'Desarrollador <em>Full stack</em>',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Edgar Mauricio Cortes Garcia',
-          cargo: 'Actividad Didáctica',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
