@@ -22,15 +22,15 @@
               img(src='@/assets/curso/temas/31.svg', alt='')
           .tarjeta.p-4(style="background-color: #f6fce7 ")
             h5.text-center Desplazamiento arriba y encima
-            p.mb-0 Donde el cuerpo tiende a salir en dirección oblicua y hacia arriba. La cabeza impacta con el parabrisas, retrovisor, marco interno metálico, produciendo fracturas craneales,  faciales, lesiones encefálicas y diferentes tipos de herida
+            p.mb-0 Donde el cuerpo tiende a salir en dirección oblicua y hacia arriba. La cabeza impacta con el parabrisas, retrovisor, marco interno metálico, produciendo fracturas craneales,  faciales, lesiones encefálicas y diferentes tipos de herida.
       .col-lg-5.mb-lg-0.mb-3
         .p-4(style="background-color: #b1d1f9").h-100
           .row.justify-content-center.mb-3
             .col-lg-8
               img(src='@/assets/curso/temas/32.svg', alt='')
           .tarjeta.p-4(style="background-color: #d7e8fc ")
-            h5.text-center Desplazamiento arriba y encima
-            p.mb-0 Donde el cuerpo tiende a salir en dirección oblicua y hacia arriba. La cabeza impacta con el parabrisas, retrovisor, marco interno metálico, produciendo fracturas craneales,  faciales, lesiones encefálicas y diferentes tipos de herida.
+            h5.text-center Desplazamiento abajo y debajo
+            p.mb-0 También conocido como inmersión, donde se produce un primer impacto de las rodillas contra el salpicadero. En los pies o tobillos suelen aparecer lesiones por atrapamiento con los pedales o también por deformación brusca de la estructura metálica. Además, se da un desplazamiento del tronco, golpeándose el pecho con el volante.
     .titulo-tres: h3 Órganos internos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")

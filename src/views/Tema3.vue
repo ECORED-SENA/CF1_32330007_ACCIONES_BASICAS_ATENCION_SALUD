@@ -165,7 +165,8 @@
                   li.d-flex.mb-0
                     i.fas.fa-circle
                     p.mb-0 Curitas de diferentes tamaños
-                    .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
                     p.mb-0 Alcohol antiséptico
@@ -197,13 +198,11 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Collarines o collar cervical
+                    p.mb-0 Repelente
+
+
             .col-lg-6.mb-lg-0.mb-3
               ul.lista-ul
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Repelente
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
@@ -211,15 +210,48 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Microporo
+                    p.mb-0 Micropore
+                
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Repelentes de insectos
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Tensiometro
+
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Fonendoscopio
+
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Glucómetro y tirillas
+
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Collarines o collar cervical
+
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
                     p.mb-0 Camilla o tabla de espina larga
+
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
                     p.mb-0 Silla de ruedas
+
+                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
+                  li.d-flex.mb-0
+                    i.fas.fa-circle
+                    p.mb-0 Mascarillas de reanimación
+
+
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
@@ -236,36 +268,17 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Férulas
+                    p.mb-0 Férulas (todo tipo de fracturas)
+
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Bolsas de frio instantanea
+                    p.mb-0 Bolsas de frío instantanea
+
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
                     p.mb-0 Solución salina 0,9 %
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Repelentes de insectos
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Tensiometro
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Mascarillas de reanimación
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Fonendoscopio
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
-                    p.mb-0 Glucómetro y tirillas
-
                 
 </template>
 
