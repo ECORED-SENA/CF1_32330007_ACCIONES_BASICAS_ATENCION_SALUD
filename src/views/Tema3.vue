@@ -255,10 +255,6 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Mascarillas de reanimación
-                .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
-                  li.d-flex.mb-0
-                    i.fas.fa-circle
                     p.mb-0 Guantes de látex y vinilo
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
