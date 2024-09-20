@@ -117,10 +117,20 @@
     .titulo-tres: h3 Alertar  
     .p-4.mb-4(style="background-color: #FFF6F1")
       p.mb-0 En situaciones de emergencia, es crucial alertar a los servicios de emergencia de manera rápida y precisa. A continuación, se detallan los pasos a seguir al realizar una llamada de emergencia:
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+    .row.justify-content-center.align-items-center.mb-5 
+      .col-lg-7
+        .bgpod.p-4.borde-8.pb-lg-5
+          .row.align-items-center 
+            .col-md-6
+              figure.mb-4.mb-lg-0
+                img.mx-auto(src="@/assets/curso/temas/pod.svg",style="max-width: 270px;")
+            .col-md-6
+              p.fw-bold.mb-2(style="font-size: 20px;") ¿Sabías qué?
+              p.mb-3 Lo invitamos a escuchar el siguiente Pódcast:
+              TarjetaAudioPersonalizada.color-primario.tarjeta-audio-p-1.mb-3(
+                texto="Alertar"
+                :audio="require('@/assets/componentes/audios/Alertar_mezcla.mp3')"
+                )
     .titulo-tres: h3 Examinar 
     .p-4.mb-4(style="background-color: #FFF6F1")
       p.mb-0 Inicie la valoración primaria. Haga algunas preguntas para determinar el estado del paciente: 
@@ -239,26 +249,16 @@
               .d-flex.justify-content-center.mb-3
                 .d-inline-block.m-auto.p-3(style="background-color: #FFB27E ")
                   h5.mb-0.text-center Naturaleza del incidente 
-              p Tipo de situación existente, materiales peligrosos y derrame de los mismos, colapso de estructura, incendio estructural, incendio forestal, caída de alturas, accidente de tránsito, caída de objetos, inundaciones y deslizamiento. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+              p Tipo de situación existente, materiales peligrosos y derrame de los mismos, colapso de estructura, incendio estructural, incendio forestal, caída de alturas, accidente de tránsito, caída de objetos, inundaciones y deslizamiento.
 </template>
 
 <script>
+import TarjetaAudioPersonalizada from '@/components/TarjetaAudioPersonalizada.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: {
+    TarjetaAudioPersonalizada,
+  },
   data: () => ({
     // variables de vue
   }),
