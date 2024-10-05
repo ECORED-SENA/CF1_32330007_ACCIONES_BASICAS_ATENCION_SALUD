@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Actitud del auxiliador y valoración de la escena',
       referencia:
-        'Agencia Nacional de Seguridad Vial (2023). MÓDULO 1 - DEBERES PRIMER RESPONDIENTE. [Archivo de video] Youtube.',
+        'Agencia Nacional de Seguridad Vial (2023). MÓDULO 1 - DEBERES PRIMER RESPONDIENTE. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/4JudaYDBcho?feature=shared',
     },
@@ -137,7 +137,7 @@ export default {
     {
       tema: 'Cinemática del trauma',
       referencia:
-        'Centro Nacional Operativo en Salud. (2015). CINEMATICA DEL TRAUMA 2. [Archivo de video] Youtube.',
+        'Centro Nacional Operativo en Salud. (2015). CINEMATICA DEL TRAUMA 2. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=yO_K1wqTQ6c&ab_channel=CentroNacionalOperativoenSalud',
@@ -145,7 +145,7 @@ export default {
     {
       tema: 'Botiquín de primeros auxilios',
       referencia:
-        'Facultad de Medicina UNAM (2018). Botiquín. [Archivo de video] Youtube.',
+        'Facultad de Medicina UNAM (2018). Botiquín. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=t5S7zmerXD4&ab_channel=Prevenci%C3%B3nSalud',
@@ -180,7 +180,7 @@ export default {
     {
       termino: 'Primeros auxilios',
       significado:
-        'son aquellas primeras medidas o cuidados adecuados que se ponen en práctica en forma provisional tan pronto se reconoce una emergencia.',
+        'son aquellas primeras medidas o cuidados adecuados que se ponen en práctica en forma provisional, tan pronto se reconoce una emergencia.',
     },
     {
       termino: 'Recurso',
@@ -235,12 +235,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -255,7 +255,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'valuadora instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -265,7 +265,7 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julián Ramírez Benítez',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
@@ -290,7 +290,7 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {

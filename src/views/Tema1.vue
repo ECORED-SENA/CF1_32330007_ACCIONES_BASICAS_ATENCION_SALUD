@@ -84,9 +84,9 @@
               h4 4. Evitar riesgos
               p Si la escena es de difícil acceso y no es posible llegar a ella de manera segura, espere a que llegue la ayuda profesional.
             .col-lg-4.col-7: img(src='@/assets/curso/temas/10.png', alt='')
-          .row.justify-content-between.px-5(titulo="5. Considerar entorno")
+          .row.justify-content-between.px-5(titulo="5. Considerar el entorno")
             .col-lg-4.mb-4.mb-lg-0
-              h4 5. Considerar entorno
+              h4 5. Considerar el entorno
               p Reconozca el tipo de entorno, como colisiones de vehículos, espacios cerrados, escenarios de crímenes, emergencias ambientales, peleas, tipos de edificaciones, daños estructurales, inundaciones, deslizamientos y materiales peligrosos.
             .col-lg-4.col-7: img(src='@/assets/curso/temas/11.png', alt='')
           .row.justify-content-between.px-5(titulo="6. Prevenir daños")
@@ -107,7 +107,7 @@
           .row.justify-content-between.px-5(titulo="9. Usar protección personal")
             .col-lg-4.mb-4.mb-lg-0
               h4 9. Usar protección personal
-              p Siempre use el equipo de protección adecuado y lávese las manos antes y después de atender al paciente.
+              p Siempre, use el equipo de protección adecuado y lávese las manos antes y después de atender al paciente.
             .col-lg-4.col-7: img(src='@/assets/curso/temas/15.png', alt='')
           .row.justify-content-between.px-5(titulo="10. Asegurar escena")
             .col-lg-4.mb-4.mb-lg-0

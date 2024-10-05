@@ -24,7 +24,7 @@
                   p.mb-0 Antisépticos. 
                 li.d-flex
                   i.fas.fa-circle
-                  p.mb-0 Tijeras corta todo.
+                  p.mb-0 Tijeras, corta todo.
                 li.d-flex
                   i.fas.fa-circle
                   p.mb-0 Algodón. 
@@ -47,7 +47,7 @@
         .tarjeta.p-4(style="background-color: #eefad1 ").h-100
           .row.justify-content-center.mb-3
             .col-lg-7: img(src='@/assets/curso/temas/40.svg', alt='')
-          p.text-center Termometro.
+          p.text-center Termómetro.
       .col-2.mb-3
         .tarjeta.p-4(style="background-color: #eefad1 ").h-100
           .row.justify-content-center.mb-3
@@ -136,69 +136,69 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Directorio de ambulancias y servicios de salud o teléfonos de emergencias locales
+                    p.mb-0 Directorio de ambulancias y servicios de salud o teléfonos de emergencias locales.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Termómetro
+                    p.mb-0 Termómetro.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Tijeras corta todo
+                    p.mb-0 Tijeras corta todo.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Gasas o apósitos
+                    p.mb-0 Gasas o apósitos.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Algodón
+                    p.mb-0 Algodón.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Vendas de gasa
+                    p.mb-0 Vendas de gasa.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Aplicadores de algodón
+                    p.mb-0 Aplicadores de algodón.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Curitas de diferentes tamaños
+                    p.mb-0 Curitas de diferentes tamaños.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Alcohol antiséptico
+                    p.mb-0 Alcohol antiséptico.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Jabón antiséptico
+                    p.mb-0 Jabón antiséptico.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Gafas de bioseguridad
+                    p.mb-0 Gafas de bioseguridad.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Tapabocas o mascarillas
+                    p.mb-0 Tapabocas o mascarillas.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Guantes de látex
+                    p.mb-0 Guantes de látex.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Protector solar
+                    p.mb-0 Protector solar.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Repelente
+                    p.mb-0 Repelente.
 
 
             .col-lg-6.mb-lg-0.mb-3
@@ -206,75 +206,75 @@
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Sueros de hidratación oral
+                    p.mb-0 Sueros de hidratación oral.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Micropore
+                    p.mb-0 Micropore.
                 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Repelentes de insectos
+                    p.mb-0 Repelentes de insectos.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Tensiometro
+                    p.mb-0 Tensiometro.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Fonendoscopio
+                    p.mb-0 Fonendoscopio.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Glucómetro y tirillas
+                    p.mb-0 Glucómetro y tirillas.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Collarines o collar cervical
+                    p.mb-0 Collarines o collar cervical.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Camilla o tabla de espina larga
+                    p.mb-0 Camilla o tabla de espina larga.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Silla de ruedas
+                    p.mb-0 Silla de ruedas.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Mascarillas de reanimación
+                    p.mb-0 Mascarillas de reanimación.
 
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Guantes de látex y vinilo
+                    p.mb-0 Guantes de látex y vinilo.
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Cánulas orofaríngeas
+                    p.mb-0 Cánulas orofaríngeas.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Férulas (todo tipo de fracturas)
+                    p.mb-0 Férulas (todo tipo de fracturas).
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Bolsas de frío instantanea
+                    p.mb-0 Bolsas de frío instantánea.
 
                 .tarjeta.px-3.py-2(style="background-color: #eefad1").mb-2
                   li.d-flex.mb-0
                     i.fas.fa-circle
-                    p.mb-0 Solución salina 0,9 %
+                    p.mb-0 Solución salina 0,9 %.
                 
 </template>
 
